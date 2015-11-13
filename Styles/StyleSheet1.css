@@ -1,0 +1,13 @@
+﻿body {
+}
+.tbDesigns
+{
+                padding:10px;
+                border:solid 5px #c9c9c9;
+               
+                
+    }
+  .tbDesigns:focus,.tbDesigns.focus
+  {
+      border:solid 5px #969696;
+  }

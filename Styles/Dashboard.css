@@ -1,0 +1,51 @@
+﻿body
+    {
+       background-color: #ebeff2;
+    }
+    td 
+    {
+        height: 50px;
+        
+        background-color: #ddd;
+        border: 1px solid white;
+        color: Black ;
+        text-decoration: blink;
+        
+        
+        
+        
+    }
+    .header td
+    {
+        border: 0px;
+        
+        
+    }           
+    
+   
+   
+    
+    .header
+    {   
+        background-opacity: 0.2;
+        margin-top: 60px;
+        margin-bottom: -90px;
+        position: relative;
+        color: #FDFD96;
+        width: 100%;
+         
+        
+    }
+   
+    .backbutton
+    {
+        background-image: url("back_button.png");
+    }
+    .forbutton
+    {
+        background-image: url("for_button.png");
+    }
+    .selectpicker
+    {
+        width: 300px;
+    }       
